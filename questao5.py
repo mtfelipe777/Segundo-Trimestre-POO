@@ -27,11 +27,7 @@ class Onibus:
 
 
 
-
 onibus = Onibus("ABC-1234", "João Silva", 10)
-
 print(len(onibus))
-
 onibus[0] = True
-
 print(onibus)
